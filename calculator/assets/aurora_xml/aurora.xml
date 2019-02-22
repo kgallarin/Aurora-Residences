@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<UNIT>101</UNIT>
+		<UNIT_NAME>1 BR Unit F</UNIT_NAME>
+		<UNIT_PRICE>4009126.5</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>102</UNIT>
+		<UNIT_NAME>Studio Unit B1</UNIT_NAME>
+		<UNIT_PRICE>2182443.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>103</UNIT>
+		<UNIT_NAME>Studio Unit B1</UNIT_NAME>
+		<UNIT_PRICE>2182443.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>104</UNIT>
+		<UNIT_NAME>Studio Unit B1</UNIT_NAME>
+		<UNIT_PRICE>2182443.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>105</UNIT>
+		<UNIT_NAME>Studio Unit B1</UNIT_NAME>
+		<UNIT_PRICE>2182443.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>106</UNIT>
+		<UNIT_NAME>Studio Unit B1</UNIT_NAME>
+		<UNIT_PRICE>2182443.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>107</UNIT>
+		<UNIT_NAME>Studio Unit B1</UNIT_NAME>
+		<UNIT_PRICE>2182443.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>108</UNIT>
+		<UNIT_NAME>Studio Unit B1</UNIT_NAME>
+		<UNIT_PRICE>2182443.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>109</UNIT>
+		<UNIT_NAME>Studio Unit B1</UNIT_NAME>
+		<UNIT_PRICE>2182443.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>110</UNIT>
+		<UNIT_NAME>1 BR Unit D1</UNIT_NAME>
+		<UNIT_PRICE>3748353</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>111</UNIT>
+		<UNIT_NAME>1 BR Unit E1</UNIT_NAME>
+		<UNIT_PRICE>4781976.25</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>112</UNIT>
+		<UNIT_NAME>1 BR Unit E1</UNIT_NAME>
+		<UNIT_PRICE>4781976.25</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>113</UNIT>
+		<UNIT_NAME>1 BR Unit D1</UNIT_NAME>
+		<UNIT_PRICE>3748353</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>114</UNIT>
+		<UNIT_NAME>1 BR Unit D1</UNIT_NAME>
+		<UNIT_PRICE>3748353</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>116</UNIT>
+		<UNIT_NAME>Studio Unit B1</UNIT_NAME>
+		<UNIT_PRICE>2182443.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>203</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>204</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>206</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>207</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>208</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>209</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>210</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2935653</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>211</UNIT>
+		<UNIT_NAME>1 BR Unit E2</UNIT_NAME>
+		<UNIT_PRICE>3352860.5</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>212</UNIT>
+		<UNIT_NAME>1 BR Unit E2</UNIT_NAME>
+		<UNIT_PRICE>3352860.5</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>213</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2935653</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>214</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2935653</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>215</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>218</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2935653</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>301</UNIT>
+		<UNIT_NAME>2 BR Unit G2</UNIT_NAME>
+		<UNIT_PRICE>4395363.25</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>303</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>304</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>306</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>307</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>308</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>309</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>310</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2954024.75</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>313</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2954024.75</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>314</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2954024.75</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>315</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>316</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>317</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>318</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2954024.75</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>319</UNIT>
+		<UNIT_NAME>2 BR Unit G1</UNIT_NAME>
+		<UNIT_PRICE>4331228.75</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>501</UNIT>
+		<UNIT_NAME>2 BR Unit G1</UNIT_NAME>
+		<UNIT_PRICE>4331228.75</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>502</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>503</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>504</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>505</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>507</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>508</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>512</UNIT>
+		<UNIT_NAME>1 BR Unit E2</UNIT_NAME>
+		<UNIT_PRICE>3373640.25</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>513</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2945024.75</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>514</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2945024.75</UNIT_PRICE>
+		<CATEGORY>3 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>515</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>516</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>517</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1776093.5</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>518</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2954024.75</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>519</UNIT>
+		<UNIT_NAME>2 BR Unit G2</UNIT_NAME>
+		<UNIT_PRICE>4395363.25</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>601</UNIT>
+		<UNIT_NAME>2 BR Unit G2</UNIT_NAME>
+		<UNIT_PRICE>4422915.5</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>602</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1785914.7</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>603</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1785914.7</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>604</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1785914.7</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>605</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1785914.7</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>614</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2972396.5</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>619</UNIT>
+		<UNIT_NAME>2 BR Unit G1</UNIT_NAME>
+		<UNIT_PRICE>4358372.5</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>703</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1785914.7</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>704</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1785914.7</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>705</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1785914.7</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>710</UNIT>
+		<UNIT_NAME>1 BR Unit D2</UNIT_NAME>
+		<UNIT_PRICE>2972396.5</UNIT_PRICE>
+		<CATEGORY>2 Windows</CATEGORY>
+	</record>
+	<record>
+		<UNIT>717</UNIT>
+		<UNIT_NAME>Studio Unit B2</UNIT_NAME>
+		<UNIT_PRICE>1785914.7</UNIT_PRICE>
+		<CATEGORY>Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>719</UNIT>
+		<UNIT_NAME>2 BR Unit G2</UNIT_NAME>
+		<UNIT_PRICE>4422915.5</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+	<record>
+		<UNIT>801</UNIT>
+		<UNIT_NAME>2 BR Unit G2</UNIT_NAME>
+		<UNIT_PRICE>4450467.75</UNIT_PRICE>
+		<CATEGORY>Corner Unit</CATEGORY>
+	</record>
+</data-set>

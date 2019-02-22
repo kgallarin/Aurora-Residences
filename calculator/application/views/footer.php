@@ -1,0 +1,1 @@
+<?php include('http://auroraresidences.com/footer.php'); ?>
